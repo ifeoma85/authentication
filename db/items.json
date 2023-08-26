@@ -1,0 +1,7 @@
+[
+    {"name": "biscuit", "price": "N500", "size": "small", "id": "2"},
+    {"name": "chocolate", "price": "N570", "size": "large", "id": "3"},
+    {"name": "sweet", "price": "N950", "size": "medium", "id": "4"},
+    {"name": "cake", "price": "N800", "size": "small", "id": "5"},
+    {"name": "shirt", "price": "N1500", "size": "large", "id": "6"}
+]
